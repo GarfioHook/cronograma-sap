@@ -1,0 +1,49 @@
+﻿Sociedad;Etapa;Tipo;Inicio;Fin
+PTM;Cierre Definiciones;Hito;2025-09-26;2025-09-26
+PTM;Capacitación;Actividad;2025-09-29;2025-10-20
+PTM;Pruebas;Actividad;2025-10-20;2025-11-01
+PTM;Go/No-Go;Hito;2025-11-01;2025-11-01
+PTM;Go-Live;Hito;2025-11-03;2025-11-03
+PTM;Acompañamiento 1er Cierre;Actividad;2025-11-03;2025-11-10
+PJ Portland;Cierre Definiciones;Hito;2025-10-31;2025-10-31
+PJ Portland;Capacitación;Actividad;2025-11-03;2025-12-01
+PJ Portland;Pruebas;Actividad;2025-12-01;2026-01-09
+PJ Portland;Go/No-Go;Hito;2026-01-09;2026-01-09
+PJ Portland;Go-Live;Hito;2026-01-12;2026-01-12
+PJ Portland;Acompañamiento 1er Cierre;Actividad;2026-01-12;2026-02-06
+Noviciado;Cierre Definiciones;Hito;2025-10-31;2025-10-31
+Noviciado;Capacitación;Actividad;2025-11-03;2025-12-01
+Noviciado;Pruebas;Actividad;2025-12-01;2026-01-09
+Noviciado;Go/No-Go;Hito;2026-01-09;2026-01-09
+Noviciado;Go-Live;Hito;2026-01-12;2026-01-12
+Noviciado;Acompañamiento 1er Cierre;Actividad;2026-01-12;2026-02-06
+Perez & Jacard;Cierre Definiciones;Hito;2025-10-31;2025-10-31
+Perez & Jacard;Capacitación;Actividad;2025-11-03;2025-12-01
+Perez & Jacard;Pruebas;Actividad;2025-12-01;2026-01-09
+Perez & Jacard;Go/No-Go;Hito;2026-01-09;2026-01-09
+Perez & Jacard;Go-Live;Hito;2026-01-12;2026-01-12
+Perez & Jacard;Acompañamiento 1er Cierre;Actividad;2026-01-12;2026-02-06
+Perú;Cierre Definiciones;Hito;2025-10-07;2025-10-07
+Perú;Capacitación;Actividad;2025-11-03;2025-12-01
+Perú;Pruebas;Actividad;2025-12-01;2025-12-31
+Perú;Go/No-Go;Hito;2026-01-03;2026-01-03
+Perú;Go-Live;Hito;2026-01-05;2026-01-05
+Perú;Acompañamiento 1er Cierre;Actividad;2026-01-05;2026-02-06
+Colombia;Cierre Definiciones;Hito;2025-10-07;2025-10-07
+Colombia;Capacitación;Actividad;2025-11-03;2025-12-01
+Colombia;Pruebas;Actividad;2025-12-01;2025-12-31
+Colombia;Go/No-Go;Hito;2026-01-16;2026-01-16
+Colombia;Go-Live;Hito;2026-01-19;2026-01-19
+Colombia;Acompañamiento 1er Cierre;Actividad;2026-01-19;2026-02-06
+Distribuidora Portland;Cierre Definiciones;Hito;2026-02-27;2026-02-27
+Distribuidora Portland;Capacitación;Actividad;2026-03-09;2026-04-06
+Distribuidora Portland;Pruebas;Actividad;2026-04-06;2026-05-02
+Distribuidora Portland;Go/No-Go;Hito;2026-05-02;2026-05-02
+Distribuidora Portland;Go-Live;Hito;2026-05-04;2026-05-04
+Distribuidora Portland;Acompañamiento 1er Cierre;Actividad;2026-05-04;2026-06-08
+Epoxa;Cierre Definiciones;Hito;2026-02-27;2026-02-27
+Epoxa;Capacitación;Actividad;2026-03-09;2026-04-06
+Epoxa;Pruebas;Actividad;2026-04-06;2026-05-02
+Epoxa;Go/No-Go;Hito;2026-05-02;2026-05-02
+Epoxa;Go-Live;Hito;2026-05-04;2026-05-04
+Epoxa;Acompañamiento 1er Cierre;Actividad;2026-05-04;2026-06-08
